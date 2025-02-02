@@ -1,13 +1,13 @@
-# Super + Enter 開啟 WindowsTerminal
-## 動機
-因為不是很想用Win + S 然後打中文找終端機，還有不想用Win + R 找wt來開，就寫了自己在Linux習慣的Win + Enter來開終端機
+# Super + Enter Open Windows Terminal
+## motivation
+Because I don't really want to use Win + S and then type in Chinese to find the terminal, and I don't want to use Win + R to find wt to open it, so I wrote the Win + Enter method I am used to in Linux to open the terminal.
 
-## 使用
-按下Win + Enter就可以開啟Windows Terminal
+# use
+Press Win + Enter to open Windows Terminal
 
-## 後續優化
-如果跟我一樣覺得開機還要再點一次exe很煩的話可以把文件貼到
+# Subsequent optimization
+If you find it annoying to click the exe again when booting the computer like I do, you can paste the file here
 ```
 C:\Users\<You User Name>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ```
-下次開機就會自己在背後運行了
+Next time you turn on the computer, it will run in the background.
