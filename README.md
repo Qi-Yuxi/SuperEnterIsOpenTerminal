@@ -7,7 +7,7 @@
 
 ## 後續優化
 如果跟我一樣覺得開機還要再點一次exe很煩的話可以把文件貼到
-'''
+```
 C:\Users\<You User Name>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-'''
+```
 下次開機就會自己在背後運行了
