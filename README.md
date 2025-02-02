@@ -1,8 +1,8 @@
 # Super + Enter Open Windows Terminal
-## motivation
+## Motivation
 Because I don't really want to use Win + S and then type in Chinese to find the terminal, and I don't want to use Win + R to find wt to open it, so I wrote the Win + Enter method I am used to in Linux to open the terminal.
 
-# use
+# Usage
 Press Win + Enter to open Windows Terminal
 
 # Subsequent optimization
